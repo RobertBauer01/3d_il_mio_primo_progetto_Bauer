@@ -5,3 +5,5 @@ Ciao a tutti, in questa pagina di markdown vi faccio vedere diversi tipi di bici
 * MTB Downhill
 * Racing bike
 * City bike
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
